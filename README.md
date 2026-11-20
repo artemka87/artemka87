@@ -39,7 +39,7 @@
 ## 📫 Связаться со мной
 
 - GitHub: [@artemka87](https://github.com/artemka87)
-- Telegram: напишу, когда будет готов бот для портфолио 😉
+- Telegram: [@Mr_Kret](https://t.me/Mr_Kret)
 
 ---
 
